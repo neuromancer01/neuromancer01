@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @neuromancer01
 - 👀 I’m interested in crypto and neuroscience
-- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on building optimum finance
 -
 
